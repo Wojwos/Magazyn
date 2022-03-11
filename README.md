@@ -1,2 +1,2 @@
 # Magazyn
-Drugi Projekt z Podstaw Programowania Komputerów
+Program pełni funkcję bazy danych kontrahentów, magazynu, towarów. Program przechowywuje listę towarów opisanych nazwą, ceną, oraz liczbą sztuk dostępnych w magazynie. Magazyn wymaga, aby każdemu z tych towarów przyporządkować listę kontrahentów, którzy dany towar nabyli. Program przechowuje informację o nazwie kontrahenta i dacie zakupu przez niego danego towaru. Ponadto program zapewnia możliwość dodawania, wyszukiwania, edycji, sortowania zgodnie z kolejnością alfabetyczną nazw i usuwania towarów (usunięcie towaru nie powoduje usunięcia kontrahentów, którzy go zakupili), dodawania nowych kontrahentów oraz wyświetlania całej bazy danych.
